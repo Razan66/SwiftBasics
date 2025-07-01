@@ -42,7 +42,7 @@ This Xcode Playground is divided into several pages. Each page covers an importa
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone this repo to your local machine:
    ```bash
