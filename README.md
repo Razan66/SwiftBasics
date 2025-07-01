@@ -1,10 +1,10 @@
-# 📱 SwiftBasics
+#  SwiftBasics
 
 Welcome to **SwiftBasics** — a beginner-friendly Swift Playground to learn core concepts in Swift programming. This repository is ideal for anyone starting with Swift or preparing to build iOS apps.
 
 ---
 
-## 🧠 What's Inside?
+##  What's Inside?
 
 This Xcode Playground is divided into several pages. Each page covers an important topic with code samples and explanations. You can open it in **Xcode** and explore interactively.
 
