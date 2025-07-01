@@ -35,7 +35,7 @@ This Xcode Playground is divided into several pages. Each page covers an importa
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - macOS with [Xcode](https://developer.apple.com/xcode/) installed
 - Basic programming mindset — no prior Swift experience needed
